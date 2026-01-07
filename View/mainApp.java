@@ -6,7 +6,7 @@ package id.ac.unpas.Kelompok7_PP2_D_2025.View;
 
 /**
  *
- * @author User
+ * @author USER
  */
 public class mainApp {
     
